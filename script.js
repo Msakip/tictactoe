@@ -28,6 +28,7 @@ function addGo(e){
     checkScore();
 }
 
+My Solution
 // function checkScore() {
 //     const allSquares = document.querySelectorAll('.square');
 //     console.log(allSquares);
